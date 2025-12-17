@@ -25,7 +25,7 @@ export default function Home() {
 
   /* ✅ NEW: Judge0 Base URL */
   const [baseUrl, setBaseUrl] = useState(
-    "https://vehicle-doc-founder-its.trycloudflare.com"
+    "https://judge0.js4.life/"
   );
 
   const runCode = async () => {
